@@ -4,6 +4,9 @@ An app that help you to convert unities.
 
 ## Screenshots
 
+![image1](/public/2022-04-09_22-57.png)
+![image2](/public/2022-04-09_22-58.png)
+
 ## How to run
 
 - python 3.8 or above installed
